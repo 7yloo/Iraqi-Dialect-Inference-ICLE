@@ -1,4 +1,4 @@
-# 🇮🇶 ICLE: Deciphering Iraqi "Hussja" via Hybrid AI
+# 🇮🇶 ICLE: Deciphering Iraqi "Hussja OR Husscha" via Hybrid AI
 
 Welcome to the official repository of the **ICLE Framework** (Intuitive Cultural & Logical Engine). This project addresses the "Cultural Hallucination" in global AI models when processing the Iraqi dialect.
 
