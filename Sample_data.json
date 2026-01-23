@@ -1,0 +1,26 @@
+[
+  {
+    "ID": "S0002",
+    "Text": "أبد ما تأخرت، بعد وكتك!",
+    "Pattern": "Time Sarcasm",
+    "Surface_Meaning": "Praising punctuality.",
+    "Hidden_Meaning": "Rebuking someone for being very late.",
+    "Note": "Common Iraqi 'Hussja' where literal meaning is the opposite of intent."
+  },
+  {
+    "ID": "S0004",
+    "Text": "ما شاء الله، الذاكرة مالتك فول.",
+    "Pattern": "Cognitive Sarcasm",
+    "Surface_Meaning": "Praising memory strength.",
+    "Hidden_Meaning": "Sarcasm regarding someone's forgetfulness.",
+    "Note": "LLMs like Gemini often fail this by interpreting 'Full' as a positive state."
+  },
+  {
+    "ID": "S0191",
+    "Text": "إنت تدلل... بس خلي نشوف الظرف شنو.",
+    "Pattern": "Polite Refusal",
+    "Surface_Meaning": "Agreement to help.",
+    "Hidden_Meaning": "A polite, indirect refusal based on Iraqi social protocols.",
+    "Note": "The phrase 'تدلل' is used here as a social lubricant, not a commitment."
+  }
+]
